@@ -1,13 +1,53 @@
+.navbar {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.jumbotron {
+    background-color: #005EC9;
+    
+}
+
+.my-4 {
+    background-color: white;
+}
+
+h1 {
+    color: #fff;
+}
+
+.lead {
+    color: #fff;
+}
+/* Images */
+
+img {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
+
 #diamond {
     height: 40px;
+    color: #fff;
 }
 
-#img1 {
-    height: 400px;
-
-}
+.invert { filter: invert(100%); }
 
 #double-diamond {
-    max-height: 600px;
+    width: 100%;
 }
 
+#industry-analysis {
+    width: 100%;
+}
+
+#initial-research-insights {
+    width: 100%;
+}
+
+#initial-interview-process {
+    width: 100%;
+}
